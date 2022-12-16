@@ -6,6 +6,8 @@ elseif game.PlaceId == (7722306047) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
 elseif game.PlaceId == (11725212117) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif game.PlaceId == (920587237) then
+     https://raw.githubusercontent.com/KISOOUF/Adopt-Me/main/Cat-Core
 else
-   print("neither game")
+   print("chees/e")
 end

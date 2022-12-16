@@ -1,5 +1,13 @@
+if game.PlaceId == (10321372166) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+else
 if game.PlaceId == (6284583030) then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
 else
+if game.PlaceId == (11725212117) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+else
+if game.PlaceId == (7722306047) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
 print("Chees/e")
 end

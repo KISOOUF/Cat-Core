@@ -12,6 +12,8 @@ elseif game.PlaceId == (183364845) then
      loadstring(game:HttpGet(" https://raw.githubusercontent.com/KISOOUF/Speedrun4/main/script"))() -- Speed Run 
 elseif game.PlaceId == (2818280787) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/ps2/main/scrpt"))() -- Pet Simulator 2
+elseif game.PlaceId == (11294517036) then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/BeastGames/main/script"))()
 elseif game.PlaceId == (2166944189) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/firefighter-/main/script"))() -- Firefighters!
 else

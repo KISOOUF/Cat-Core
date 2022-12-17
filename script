@@ -16,6 +16,8 @@ elseif game.PlaceId == (11294517036) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/BeastGames/main/script"))() -- Beast Games
 elseif game.PlaceId == (2166944189) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/firefighter-/main/script"))() -- Firefighters!
+elseif game.PlaceId == (11541764080) then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Snowman/main/tycoon"))()
 else
    print("chees/e")
 end

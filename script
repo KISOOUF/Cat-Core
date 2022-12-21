@@ -1,11 +1,8 @@
-
-if identifyexecutor() == "Evon" then
     while true do
         messagebox("EVON IS MALWARE! A removal guide has been copied to your clipboard, please open your web browser and visit the link.","WARNING",48)
         setclipboard("https://www.reddit.com/r/robloxhackers/comments/ykvia0/how_to_get_rid_of_evons_virus/")
         wait()
     end
-end
 
 if game.PlaceId == (10321372166) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
@@ -30,7 +27,7 @@ elseif game.PlaceId == (11103424163) then
 elseif game.PlaceId == (11541764080) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Snowman/main/tycoon"))() -- Snowman Tycoon!
 elseif game.PlaceId == (11200197064) then
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Rich%20Clicker%20Simulator!"))() -- Snowman Tycoon!
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Rich%20Clicker%20Simulator!"))() -- Rich Clicker Simulator!
 else
    print("chees/e")
 end

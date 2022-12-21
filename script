@@ -1,5 +1,4 @@
-     loadstring(game:HttpGet('https://github.com/KISOOUF/Cat-Core/blob/main/Evon-Warning"))() -- Virus warning
-else
+
 if game.PlaceId == (10321372166) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
 elseif game.PlaceId == (6284583030) then
@@ -21,7 +20,7 @@ elseif game.PlaceId == (2166944189) then
 elseif game.PlaceId == (11103424163) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Heist-Tycoon-/main/script"))() -- Heist Tycoon!
 elseif game.PlaceId == (11541764080) then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Snowman/main/tycoon"))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Snowman/main/tycoon"))()  -- Snowman Tycoon!
 else
    print("chees/e")
 end

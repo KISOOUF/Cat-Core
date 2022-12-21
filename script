@@ -20,6 +20,8 @@ elseif game.PlaceId == (11103424163) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Heist-Tycoon-/main/script"))() -- Heist Tycoon!
 elseif game.PlaceId == (11541764080) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Snowman/main/tycoon"))() -- Snowman Tycoon!
+elseif game.PlaceId == (11200197064) then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Rich%20Clicker%20Simulator!"))() -- Rich Clicker Simulator!
 else
    print("chees/e")
 end

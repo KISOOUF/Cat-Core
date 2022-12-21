@@ -1,3 +1,5 @@
+     loadstring(game:HttpGet('https://github.com/KISOOUF/Cat-Core/blob/main/Evon-Warning"))() -- Virus warning
+
 if game.PlaceId == (10321372166) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
 elseif game.PlaceId == (6284583030) then

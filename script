@@ -24,6 +24,8 @@ elseif game.PlaceId == (10598587051) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Anime%20Clicker%20Fight"))() -- Anime Clicker Fight
 elseif game.PlaceId == (11200197064) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Rich%20Clicker%20Simulator!"))() -- Rich Clicker Simulator!
+elseif game.PlaceId == (11547613362) then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Anime%20Fly%20Race"))() -- Anime Fly Race
 else
    print("chees/e")
 end

@@ -9,6 +9,7 @@
 * [Speed Run 4](https://www.roblox.com/games/183364845/Speed-Run-4)
 * [Adopt Me!](https://www.roblox.com/games/920587237/Adopt-Me)
 * [Pet Simulator X!](https://www.roblox.com/games/6284583030/EVENT-Pet-Simulator-X)
+* [Anime Fly Race](https://www.roblox.com/games/11547613362/NEW-Anime-Fly-Race)
 
 Found an error? Please create a ticket in our Discord server, thank you.
 * [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)

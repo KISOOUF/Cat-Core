@@ -13,3 +13,6 @@
 
 Found an error? Please create a ticket in our Discord server, thank you.
 * [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)
+
+Want to learn the basics? Join our Discord server!
+* [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)

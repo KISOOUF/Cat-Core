@@ -16,3 +16,7 @@ Found an error? Please create a ticket in our Discord server, thank you.
 
 Want to learn the basics? Join our Discord server!
 * [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)
+
+## Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/script"))()```

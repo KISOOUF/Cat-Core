@@ -10,7 +10,7 @@
 * [Adopt Me!](https://www.roblox.com/games/920587237/Adopt-Me)
 * [Pet Simulator X!](https://www.roblox.com/games/6284583030/EVENT-Pet-Simulator-X)
 * [Anime Fly Race](https://www.roblox.com/games/11547613362/NEW-Anime-Fly-Race)
-
+* [Glide Race](https://www.roblox.com/games/11561748530/Glide-Race)
 Found an error? Please create a ticket in our Discord server, thank you.
 * [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)
 

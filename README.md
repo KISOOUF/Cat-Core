@@ -12,11 +12,11 @@
 * [Anime Fly Race](https://www.roblox.com/games/11547613362/NEW-Anime-Fly-Race)
 * [Glide Race](https://www.roblox.com/games/11561748530/Glide-Race)
 
-##Found an error? Please create a ticket in our Discord server, thank you.
-* [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)
+## Found an error? Please create a ticket in our Discord server, thank you.
+* AlfaEcho#7040
 
-Want to learn the basics? Join our Discord server!
-* [discord.gg/zhVJVgbZTs](discord.gg/zhVJVgbZTs)
+33 Want to learn the basics? Join our Discord server!
+* AlfaEcho#7040
 
 ## Script
 ```lua

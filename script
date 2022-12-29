@@ -1,5 +1,5 @@
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Evon-Warning"))() -- Kicks you from the game if you are using a virus exploit.
-elseif game.PlaceId == (10321372166) then
+if game.PlaceId == (10321372166) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
 elseif game.PlaceId == (6284583030) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X

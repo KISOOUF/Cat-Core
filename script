@@ -1,12 +1,12 @@
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Evon-Warning"))() -- environment safety check
 if game.PlaceId == (10321372166) then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/PSX"))() -- Pet Simulator X
 elseif game.PlaceId == (6284583030) then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/PSX"))() -- Pet Simulator X
 elseif game.PlaceId == (7722306047) then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/PSX"))() -- Pet Simulator X
 elseif game.PlaceId == (11725212117) then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))() -- Pet Simulator X
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/PSX"))() -- Pet Simulator X
 elseif game.PlaceId == (920587237) then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Adopt-Me/main/Cat-Core"))() -- Adopt Me!
 elseif game.PlaceId == (183364845) then

@@ -1,4 +1,4 @@
-getgenv (). AuthKey = "HUGE_TrialKEY"
+getgenv (). AuthKey = "HUGE_TrialKey"
 getgenv (). LoadSettings ={
 UseSeperateSaves= false,
 DisableStartupPrompt= false,

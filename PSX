@@ -1,0 +1,17 @@
+```lua
+if identifyexecutor() == "Synapse X" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "Evon" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "JJSploit" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "KRNL" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "Fluxus" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "Electron" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+elseif identifyexecutor() == "ScriptWare" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+end
+```

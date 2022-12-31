@@ -1,4 +1,6 @@
 if identifyexecutor() == "Synapse X" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Banana%20Simulator"))()
+elseif identifyexecutor() == "Evon" then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
 elseif identifyexecutor() == "JJSploit" then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
@@ -9,5 +11,5 @@ elseif identifyexecutor() == "Fluxus" then
 elseif identifyexecutor() == "Electron" then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
 elseif identifyexecutor() == "ScriptWare" then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
-    end
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Banana%20Simulator"))()
+end

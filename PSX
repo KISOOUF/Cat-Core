@@ -1,4 +1,1 @@
-if identifyexecutor() == "Synapse X" then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Banana%20Simulator"))()
-elseif identifyexecutor() == "" then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Banana%20Simulator"))()

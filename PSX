@@ -1,4 +1,4 @@
-local UiTitle = "Cat-Core Hub > Feel the gamesensse." -- Name script
+local UiTitle = "Cat-Core Hub > Feel the gamesensse.", -- Name script
 local UiCredits =  "AlfaEcho#7040" -- Credits Cat-Core Hub
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()

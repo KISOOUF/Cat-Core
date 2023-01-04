@@ -1,3 +1,1 @@
-local uititle = "Cat-Core Hub > [🎉NEW YEAR] Pet Simulator X! 🐾" -- Name of the script, you can rename it if you want.
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/PSX/main/Cat-Core"))()

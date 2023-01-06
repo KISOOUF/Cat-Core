@@ -7,7 +7,7 @@
 ```lua
 getgenv().Webhook = "" -- Discord Webhook [ Don't delete the ""!
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/PSX-Core"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KISOOUF/Cat-Core/main/Pet%20Simulator%20X/Webhook-Kick"))()
 ```
 ##  Ping @everyone if (value) players are there
 ![image](https://user-images.githubusercontent.com/95049751/211065803-9f75d937-798f-482a-892c-173c204ef403.png)
